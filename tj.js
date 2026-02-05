@@ -23,7 +23,7 @@
            href="${options.link}"
            target="_blank"
            rel="nofollow">
-          <img src="${options.image}" width="${options.width}" height="${options.height}" />
+          <img src="${options.image}" width="${options.width}" height="${options.height}" alt="quảng cáo" />
         </a>
         <span class="ad-popup-close">×</span>
       </div>
