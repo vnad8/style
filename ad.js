@@ -80,7 +80,7 @@
          href="${options.link}"
          target="_blank"
          rel="nofollow">
-        <img src="${options.image}" ${widthAttr} ${heightAttr} />
+        <img src="${options.image}" alt="quảng cáo" ${widthAttr} ${heightAttr} />
       </a>
     `;
 
@@ -279,3 +279,4 @@ var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async
 hs.src = ('//s10.histats.com/js15_as.js');
 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
 })();
+
