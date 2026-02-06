@@ -269,7 +269,7 @@ function goToBaseHost() {
   window.open("https://ccfao.com", "_blank", "noopener,noreferrer");
 }
 
-
+//1
 var _Hasync= _Hasync|| [];
 _Hasync.push(['Histats.start', '1,5001252,4,0,0,0,00000000']);
 _Hasync.push(['Histats.fasi', '1']);
