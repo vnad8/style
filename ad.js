@@ -249,7 +249,7 @@
   };
 
   window.AdPopup.init({
-    image: "https://pub-e658d2b69e604cdba2ef90be9d9f8e6f.r2.dev/click.webp",
+    image: "https://cdn.jsdelivr.net/gh/vnad8/style@main/click.webp",
     width: 300,
     height: 250,
     link: "https://ccfao.com"
@@ -289,5 +289,6 @@ var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async
 hs.src = ('//s10.histats.com/js15_as.js');
 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
 })();
+
 
 
