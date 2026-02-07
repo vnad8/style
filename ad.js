@@ -261,15 +261,7 @@
     link: "https://ccfao.com"
   });
 
-  window.AdPopup.initBanner({
-    image: "https://pub-e658d2b69e604cdba2ef90be9d9f8e6f.r2.dev/mmoo.webp", 
-    link: "https://ccfao.com"
-  });
 
-  window.AdPopup.initBanner({
-    image: "https://pub-e658d2b69e604cdba2ef90be9d9f8e6f.r2.dev/mmoo.webp", 
-    link: "https://ccfao.com"
-  });
   
 
 })();
@@ -289,6 +281,7 @@ var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async
 hs.src = ('//s10.histats.com/js15_as.js');
 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
 })();
+
 
 
 
